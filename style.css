@@ -1,0 +1,11 @@
+.button {
+  width: 400px;
+  height: 200px;
+  background-color: violet;
+  font-size: 48px;
+  color: white;
+}
+
+.button:hover {
+ background-color: yellow;
+}
